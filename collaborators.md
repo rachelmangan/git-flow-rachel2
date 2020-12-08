@@ -1,4 +1,5 @@
 Rachel Moore
 Pawan Poudel
 Ethan Rice 
-Fixing a bug
+Actually fixing that bug
+
